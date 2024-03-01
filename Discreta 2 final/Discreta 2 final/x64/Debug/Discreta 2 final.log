@@ -1,0 +1,2 @@
+﻿  Discreta 2 final.cpp
+C:\Users\darke\Documents\Discreta 2 final\Discreta 2 final\Discreta 2 final.cpp(50): error C4700: uninitialized local variable 'currentState' used
